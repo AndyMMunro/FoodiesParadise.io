@@ -8,7 +8,7 @@ This application utilizes Node, Express, Sequelize, MySQL, & Handlebars template
 
 - Deployed Application: https://frozen-river-52540.herokuapp.com/ 
 
-- Github Repository: https://github.com/AndyMMunro/FoodiesParadise.io 
+- Github Repository: https://github.com/FoodiesParadise.io 
 
 ## Table of Contents
 - [Description](#Description)
